@@ -1,1 +1,1 @@
-# gitops
+# GitOps

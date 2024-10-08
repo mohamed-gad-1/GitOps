@@ -20,5 +20,16 @@ npm pkg set scripts.build="next build"
 npm pkg set scripts.start="next start"
 npm pkg set scripts.lint="next lint"
 
+
+
+
+npm install prisma --save-dev
+npm install @prisma/client
+npm install express cors
+npm install jsonwebtoken bcryptjs joi
+
+
+
+
 # Run the development server
 npm run dev
